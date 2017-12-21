@@ -29,7 +29,7 @@ If you are going to code along and use the [Anaconda distribution](https://www.a
 To get set up for this live coding session, clone this repository. You can do so by executing the following in your terminal:
 
 ```
-git clone https://github.com/datacamp/datacamp_facebook_live_nlp
+git clone https://github.com/datacamp/datacamp_facebook_live_ny_resolution
 ```
 
 Alternatively, you can download the zip file of the repository at the top of the main page of the repository. If you prefer not to use git or don't have experience with it, this a good option.
