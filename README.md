@@ -4,7 +4,7 @@
 
 ## Identifying New Year's Resolutions with Google Trends
 
-In this Facebook live code along session, you're going to check out Google trends data of keywords 'diet', 'gym' and 'finance' to see how they vary over time. Could there be more searches for these terms in January when we're all trying to turn over a new leaf? Let's find out! In this session, you'll code along with Hugo to import google trends data into your Jupytter notebook and use `pandas` and a bunch of other Python data science stack packages to analyze and interpret these time series. You'll learn a bunch abuot time series analysis while getting your hands dirty with the world's new year's resolutions.
+In this Facebook live code along session, you're going to check out Google trends data of keywords 'diet', 'gym' and 'finance' to see how they vary over time. Could there be more searches for these terms in January when we're all trying to turn over a new leaf? Let's find out! In this session, you'll code along with Hugo to import google trends data into your Jupyter notebook and use `pandas` and a bunch of other packages from the Python data science stack to analyze and interpret these time series. You'll learn a bunch about time series analysis while getting your hands dirty with the world's new year's resolutions.
 
 ## Prerequisites
 
