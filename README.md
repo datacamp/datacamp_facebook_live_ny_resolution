@@ -6,7 +6,7 @@
 
 ## Identifying New Year's Resolutions with Google Trends
 
-In this Facebook live code along session, you're going to check out Google trends data of keywords 'diet', 'gym' and 'finance' to see how they vary over time. Could there be more searches for these terms in January when we're all trying to turn over a new leaf? Let's find out! In this session, you'll code along with Hugo to import google trends data into your Jupyter notebook and use `pandas` and a bunch of other packages from the Python data science stack to analyze and interpret these time series. You'll learn a bunch about time series analysis while getting your hands dirty with the world's new year's resolutions.
+In this Facebook live code along session, you're going to check out Google trends data of keywords 'diet', 'gym' and 'finance' to see how they vary over time. Could there be more searches for these terms in January when we're all trying to turn over a new leaf? Let's find out! In this session, you'll code along with Hugo to import google trends data into your Jupyter notebook and use `pandas` and a bunch of other packages from the Python data science stack to analyze and interpret these time series. You'll learn a bunch about time series analysis while getting your hands dirty with the world's new year's resolutions. You're not going to do much mathematics today but you'll source your data, visualize it and learn about trends and seasonality in time series data. The emphasis will be squarely on a visual exploration of the dataset in question.
 
 Join Hugo live on Thursday January 4th, 2018 at 10:30am ET on Facebook!
 
@@ -71,4 +71,3 @@ Then open the notebook `New_Years_Resolutions_Workshop.ipynb` and we're ready to
 
 ### Code
 The code in this repository is released under the [MIT license](LICENSE). Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT). All text remains the Intellectual Property of DataCamp. If you wish to reuse, adapt or remix, get in touch with me at hugo at datacamp com to request permission.
-
